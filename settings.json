@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "https://aternos.org/server/",
+    "ip": "AmazingSMPWorld.aternos.me",
     "port": 28161,
     "version": "",
     "try-creative": false
