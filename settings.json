@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Coolsmp-hOSQ.aternos.me",
+    "ip": "https://aternos.org/server/",
     "port": 28161,
     "version": "",
     "try-creative": false
